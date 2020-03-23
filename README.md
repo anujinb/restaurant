@@ -1,1 +1,1 @@
-# restraunt
+# restaurant
